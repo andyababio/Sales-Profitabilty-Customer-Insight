@@ -1,7 +1,7 @@
 # RETAIL ANALYTICS DASHBOARD: SALES, PROFITABILITY & CUSTOMER INSIGHTS
 
 ## Introduction
-This dashboard was developed for Axis and Oak, a U.S.-based retail store dealing in books, clothing, electronics, and other consumer goods. The goal is to provide a clear snapshot of the store’s current business performance and uncover insights that will help executives determine where to focus effort and resources for maximum impact.
+This dashboard was developed for Axis and Oak, a U.S.-based retail store dealing in books, clothing, electronics, and other consumer goods. The goal is to provide a clear snapshot of the store’s current business performance and uncover insights that will help executives determine where to focus effort and resources for maximum impact. The goal is to:
 
 ◼ Financial Overview
  - Evaluate overall financial performance, including revenue, profit, and trend over time.
@@ -19,16 +19,16 @@ This dashboard was developed for Axis and Oak, a U.S.-based retail store dealing
 ---
 ## 🔄 Process Flow
 
-Data Preparation (MySQL):
-The raw retail data was cleaned and transformed in MySQL.  
-See script [here](https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/mysql_script_retail_store).
+◼ Data Preparation (MySQL):
+ - The raw retail data was cleaned and transformed in MySQL.  
+ - See script [here](https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/mysql_script_retail_store).
 
 
-Data Modeling (Power BI):
-The cleaned datasets were imported into Power BI for data modeling.
+◼ Data Modeling (Power BI):
+ - The cleaned datasets were imported into Power BI for data modeling.
 
-Data Visualization & Analysis:
-I then developed interactive visuals and KPIs in Power BI using **DAX** to highlight trends, relationships, and performance metrics.
+◼ Data Visualization & Analysis:
+ - I then developed interactive visuals and KPIs in Power BI using **DAX** to highlight trends, relationships, and performance metrics.
 
 ---
 
