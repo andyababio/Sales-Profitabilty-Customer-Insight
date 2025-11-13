@@ -62,14 +62,12 @@ Relevant relationships were then established between the above table to produce 
  
 ## 📊 Dashboard Overview  
 
-<!-- Summary Page -->
 <h3 align="center">Summary Page</h3>
 <p align="center">
    <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
         alt="Dashboard" width="60%" />
 </p>
 
-<!-- Products & Customers Pages Side by Side -->
 <h4 align="center">Products & Customer Page</h4>
 <p align="center">
       <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Products.png" 
